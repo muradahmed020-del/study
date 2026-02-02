@@ -1,0 +1,8 @@
+{
+  "name": "শিশুদের শিক্ষালয় (Kids Learning Hub)",
+  "description": "An interactive Bengali educational platform for children featuring AI-powered challenges, a virtual classroom, progress tracking, and fun learning modules in Science, Math, and Language.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

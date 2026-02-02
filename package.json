@@ -1,0 +1,25 @@
+
+{
+  "name": "kids-learning-hub-bangla",
+  "version": "1.0.0",
+  "description": "Interactive Bengali educational platform for kids using Gemini AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Run this in a static file server environment' && exit 1"
+  },
+  "keywords": [
+    "education",
+    "kids",
+    "bangla",
+    "ai",
+    "gemini"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.7.0"
+  }
+}
